@@ -8,6 +8,7 @@ begin
     Result:=false;
 end;
 
+function SecondsInMinute():integer:= 60; 
 begin
   //print(IsLeapYear(257));
 end.
